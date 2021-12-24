@@ -1,1 +1,1 @@
-web: java -jar -Dspring.datasource.url=jdbc:postgres://rmykrcgwywujqo:0464a4dd5a0840eb11133ac2860c02f24228ff749bc6833d85217f1851c2cbf7@ec2-54-204-99-176.compute-1.amazonaws.com:5432/db778kc43lmb8a target/RPSAPI-0.0.1-SNAPSHOT.jar
+web: java -jar target/RPSAPI-0.0.1-SNAPSHOT.jar
